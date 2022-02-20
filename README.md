@@ -1,3 +1,3 @@
 # BrickBreakerGame
-This project is for a java course that shows our knowledge of game development. For more information please contact with me.
-Brick Breaker Game is developed for educational reasons.
+This project was for a java course that shows our knowledge of game development. For more information please contact with me.
+Brick Breaker Game was developed for educational reasons.
